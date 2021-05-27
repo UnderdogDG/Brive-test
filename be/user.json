@@ -1,0 +1,11 @@
+{
+	"d60a5226-47b6-4b5d-b7f7-0d9fd09c9656": {"uuid":"d60a5226-47b6-4b5d-b7f7-0d9fd09c9656","name":"Guadalupe","lastName":"Martínez","company":"Company","income":"13500"},
+	"162c5a45-b188-4487-84da-e6774d3c31a2": {"uuid":"162c5a45-b188-4487-84da-e6774d3c31a2","name":"Luis","lastName":"Armenta","company":"Company","income":"15000"},
+	"20d21f67-4172-4e05-854f-3cc12c135ab9": {"uuid":"20d21f67-4172-4e05-854f-3cc12c135ab9","name":"Fernando","lastName":"Gutiérrez","company":"Company","income":"6500"},
+	"8b6167ce-4be0-4c39-b922-5f89d87fb3f4": {"uuid":"8b6167ce-4be0-4c39-b922-5f89d87fb3f4","name":"Arturo","lastName":"Rivera","company":"Company","income":"8000"},
+	"7f8d154b-00a0-41f2-9243-c9f3fdc86b45": {"uuid":"7f8d154b-00a0-41f2-9243-c9f3fdc86b45","name":"Armando","lastName":"Uribe","company":"Company","income":"5000"},
+	"795a4ead-88d5-4542-8948-d6c2a0ce6068": {"uuid":"795a4ead-88d5-4542-8948-d6c2a0ce6068","name":"Carlos","lastName":"López","company":"Company","income":"5000"},
+	"89c64398-1435-4ded-a633-2c758e33a075": {"uuid":"89c64398-1435-4ded-a633-2c758e33a075","name":"Bernardo","lastName":"Alcazar","company":"Company","income":"6000"},
+	"e68a9567-3581-448d-a0b0-6e1deba0fd56": {"uuid":"e68a9567-3581-448d-a0b0-6e1deba0fd56","name":"Ana","lastName":"Corona","company":"Company","income":"13000"},
+	"2ebc80ef-f58d-4934-a17b-93976473ddbe": {"uuid":"2ebc80ef-f58d-4934-a17b-93976473ddbe","name":"Nicolas","lastName":"Goméz","company":"Company","income":"9800"}
+}

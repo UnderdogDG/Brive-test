@@ -8,7 +8,7 @@
 
 <ul>
 <li>BE(Backend): Un pequeño servicio de REST realizado con Express; las imágenes se encuentran/almacenan aquí en la carpeta imgs</li>
-<li>FE(Frontend): Parte de Desarrollo para el Frontend de donde se toma la carpeta build para enviar el proyecto.</li>
+<li>FE(Frontend): Parte de Desarrollo para el Frontend de dónde se toma la carpeta build para envíar el proyecto. Esta parte fue creada con "create-react-app". Para editar es necesario instalar los paquetes desde la carpeta fe con "npm i"</li>
 </ul>
 
 <h4>Pasos para su ejecución:</h4>

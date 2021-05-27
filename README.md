@@ -1,17 +1,21 @@
 # Brive-test
 
-Requerimientos
-Node > 10
+<h3>Requerimientos</h3>
+<p>Node > 10</p>
 
-Instrucciones
-El proyecto esta dividido en 2 carpetas:
+<h3>Instrucciones</h3>
+<p>El proyecto esta dividido en 2 carpetas:</p>
 
-BE(Backend): Un pequeño servicio de REST realizado con Express; las imágenes se encuentran/almacenan aquí en la carpeta imgs
-FE(Frontend): Parte de Desarrollo para el Frontend de donde se toma la carpeta build para enviar el proyecto.
+<ul>
+<li>BE(Backend): Un pequeño servicio de REST realizado con Express; las imágenes se encuentran/almacenan aquí en la carpeta imgs</li>
+<li>FE(Frontend): Parte de Desarrollo para el Frontend de donde se toma la carpeta build para enviar el proyecto.</li>
+</ul>
 
-Pasos para su ejecución:
+<h4>Pasos para su ejecución:</h4>
 
-1. Clonar o descargar/descomprimir el proyecto
-2. Ejecutar "npm i" en la carpeta raíz
-3. Tras instalar los paquetes ejecutar "npm run serve"
-4. Ir a la dirección mostrada en consola
+<ol>
+<li>Clonar o descargar/descomprimir el proyecto</li>
+<li>Ejecutar "npm i" en la carpeta raíz</li>
+<li>Tras instalar los paquetes ejecutar "npm run serve"</li>
+<li>Ir a la dirección mostrada en consola</li>
+</ol>
